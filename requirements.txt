@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+japanize-matplotlib
+SpeechRecognition
+sudachipy
+sudachidict_full
