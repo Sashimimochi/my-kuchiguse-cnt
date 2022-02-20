@@ -1,4 +1,4 @@
-# あなたのくちぐせカウンター
+# わたしのくちぐせカウンター
 テキストまたは音声ファイルからくちぐせをカウントするStreamlit製のウェブアプリです。
 
 アプリページは[こちら](https://share.streamlit.io/sashimimochi/my-kuchiguse-cnt/main/app.py)

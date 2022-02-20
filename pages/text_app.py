@@ -8,7 +8,7 @@ from modules.nlp import wakati, counter
 
 def main():
 
-    st.markdown('## あなたのくちぐせカウンター')
+    st.markdown('## わたしのくちぐせカウンター')
 
     texts = st.text_area('くちぐせを数えたいテキストを入力してね！Ctrl＋Enterで分析開始だよ！',
                         '''私はその人を常に先生と呼んでいた。

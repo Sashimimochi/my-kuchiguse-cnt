@@ -13,7 +13,7 @@ def stt(filename):
 
 
 def app():
-    st.markdown('## あなたのくちぐせカウンター')
+    st.markdown('## わたしのくちぐせカウンター')
 
     AUDIO_FILE = st.file_uploader(
         '音声ファイル(.wav)をアップロードしてね！', type='wav')
